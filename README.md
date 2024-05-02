@@ -24,5 +24,5 @@ Open up the `127.0.0.1:8080` link in your browser to establish a connection with
 
 ### More about Rust
 
-- (Rust official site)[https://www.rust-lang.org/]
-- (More about TCP servers)[https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages/Book%3A_Deep_into_Pharo_(Bergel_Cassou_Ducasse_and_Laval)/03%3A_Sockets/3.03%3A_TCP_Server]
+- [Rust official site](https://www.rust-lang.org/)
+- [More about TCP servers](<https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages/Book%3A_Deep_into_Pharo_(Bergel_Cassou_Ducasse_and_Laval)/03%3A_Sockets/3.03%3A_TCP_Server>)
