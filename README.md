@@ -1,6 +1,6 @@
-# Transmission Control Protocol (TCP) server
+### © Caleb Han
 
-### Caleb Han ©
+# Transmission Control Protocol (TCP) server
 
 - Listens on a port (127.0.0.1:8080) and accepts connections from TCP clients.
 - Client initiates connection reqeust to TCP server to setup connection with server.
