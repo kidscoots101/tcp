@@ -17,7 +17,7 @@ git clone
 Open terminal and type
 
 ```bash
-./tcp
+./source/tcp
 ```
 
 Open up the `127.0.0.1:8080` link in your browser to establish a connection with the TCP server.
