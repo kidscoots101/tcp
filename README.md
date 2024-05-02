@@ -1,4 +1,4 @@
-### © Caleb Han
+### Caleb Han
 
 # Transmission Control Protocol (TCP) server
 
